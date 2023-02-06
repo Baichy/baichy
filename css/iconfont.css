@@ -1,0 +1,113 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('https://www.baichychina.com/skin/baichy/fonts/iconfont.ttf?t=1650170973758') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiasanjiaoxing:before {
+  content: "\e642";
+  transform: rotate(-90deg);
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.icon-Rrl_s_145:after {
+  content: "\e613";
+  margin-left: 10px;
+}
+
+.icon-normal:before {
+  content: "\e7db";
+}
+
+.icon-bianji:before {
+  content: "\e655";
+}
+
+.icon-youjian:before {
+  content: "\e635";
+}
+
+.icon-yonghuguanli:before {
+  content: "\e620";
+}
+
+.icon-jijianfasong-xianxing:before {
+  content: "\e893";
+}
+
+.icon-dianhua:before {
+  content: "\e672";
+}
+
+.icon-a-xiangxia_huaban1:before {
+  content: "\e637";
+}
+
+.icon-arrow-:before {
+  content: "\e625";
+}
+
+.icon-a-youjianchakanyoujianfasongyoujianshouyoujian-03:before {
+  content: "\e917";
+}
+
+.icon-24xiaoshidianhua:before {
+  content: "\e746";
+}
+
+.icon-24hour:before {
+  content: "\e621";
+}
+
+.icon-dizhi:before {
+  content: "\e640";
+}
+
+.icon-zhishiku-09:before {
+  content: "\e94a";
+}
+
+.icon-gongyede-:before {
+  content: "\e769";
+}
+
+.icon-qiyexinwen:before {
+  content: "\e61d";
+}
+
+.icon-shuaxin:before {
+  content: "\ec08";
+}
+
+.icon-jiantou_xiangyou:before {
+  content: "\eb08";
+}
+
+.icon-jiantou_xiangzuo:before {
+  content: "\eb09";
+}
+
+.icon-luxiang:before {
+  content: "\e636";
+}
+
+.icon-shang:before {
+  content: "\e63c";
+}
+
+.icon-kehufuwukefu:before {
+  content: "\e698";
+}
+
+.icon-dianhua:before {
+  content: "\e605";
+}
